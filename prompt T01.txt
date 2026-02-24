@@ -1,0 +1,9 @@
+From ChatGPt :
+1. berikan dong code yang sesuai dengan output dan sesuai perintah diawali dengan code berikut
+2. iya boleh
+3. analisa kendala saya, Tidak bisa di run
+4. ketika saya berikan bash nya yang kamu berikan masih tidak bisa
+5. berikan dulu cara compile yang benar agar bisa terbaca oleh sistem visual code
+6. satukan dong dengan code nya agar bisa di compile
+7. satukan dong dengan code nya agar bisa di compile
+8. belum muncul juga untuk di masukkan input nyaa
