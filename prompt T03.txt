@@ -1,0 +1,9 @@
+From ChatGPt :
+1. Buatlah sebuah sistem yang dapat mendukung operasional sehari-hari di Laundry Del. 
+berikan code java sebagai solusi dari soal yang diberikan dan berikan juga nanti nya input dan ouput nya
+2. berikan code dimulai dari code yang saya berikan ya
+3. kenapa, berikan solusi
+4. tidak menjadi solusi yang baru saja kamu berikan kepada saya, oleh karena itu berikan yang bisa di compile kepada saya ya
+5. Tidak bisa compile juga
+6. Error: Could not find or load main class driver.Driver3
+Caused by: java.lang.ClassNotFoundException: driver.Driver3
