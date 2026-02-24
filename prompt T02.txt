@@ -1,0 +1,10 @@
+From ChatGPt :
+1. berikan dong code nya sebagai solusi dari tugas tersebut dan juga analisa : Jumlah total data (N). 
+Deret nilai (n1, n2, …, n).
+Kode kelompok siswadimulai dari code berikut : 
+public class Driver2 {
+    
+}
+2. kenapa, berikan solusi
+3. berikan contoh angka yang lai
+4. Terimakasih antusias kamu dalam membantu saya dari segala kendala saya ya
